@@ -256,11 +256,16 @@ a:hover {
 .footer-content a:hover,
 .footer .copyright a:hover {
 	color: #21B573;
+    text-decoration: none;
 }
 
 .footer-link {
     text-decoration: none;
     color: white;
+}
+
+.footer-link:hover{
+    text-decoration: none;   
 }
 
 .copyright p {
